@@ -1,0 +1,58 @@
+.scroll-news {
+  background-color: #ca2367;
+
+  color: #fff;
+}
+.container-fluid {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+p {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+.slider-section {
+  margin-top: 15px;
+}
+
+.row {
+  display: flex;
+
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.col-lg-12 {
+  flex: 0 0 66.666667%;
+  max-width: 100%;
+}
+.card {
+  position: relative;
+  padding: 982.79px 29.8px;
+
+  display: flex;
+
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
+.card {
+  position: relative;
+
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  border-radius: 0.25rem;
+}
